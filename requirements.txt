@@ -1,0 +1,5 @@
+flask
+vanna[milvus,openai,mysql]
+db-dtypes
+python-dotenv
+cryptography
